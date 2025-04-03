@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2020,
+      "is_electric": false,
+      "features": [
+        "Автоматическая коробка передач",
+        "Камера заднего вида",
+        "Климат-контроль"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "data": {
+      "make": "Tesla",
+      "model": "Model S",
+      "year": 2022,
+      "is_electric": true,
+      "features": [
+        "Автопилот",
+        "Большой сенсорный экран",
+        "Быстрая зарядка"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "data": {
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2018,
+      "is_electric": false,
+      "features": [
+        "Светодиодные фары",
+        "Бесключевой доступ",
+        "Подогрев сидений"
+      ]
+    }
+  }
+]
